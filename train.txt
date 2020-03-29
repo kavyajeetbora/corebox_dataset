@@ -1,7 +1,7 @@
-All coreboxes_1.jpg
-All coreboxes_10.jpg
-All coreboxes_11.jpg
-All coreboxes_12.jpg
-All coreboxes_13.jpg
-All coreboxes_14.jpg
-All coreboxes_15.jpg
+dataset/All coreboxes_1.jpg
+dataset/All coreboxes_10.jpg
+dataset/All coreboxes_11.jpg
+dataset/All coreboxes_12.jpg
+dataset/All coreboxes_13.jpg
+dataset/All coreboxes_14.jpg
+dataset/All coreboxes_15.jpg
